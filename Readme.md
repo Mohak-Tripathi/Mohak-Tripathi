@@ -23,9 +23,9 @@ Apart from coding, understanding human behavior, startups ecosystem, and consume
 
 - 👯 I’m looking to collaborate on some cool and awesome ideas.
 
-- 💬 Ask me about book suggestions regarding Investing, Entrepreneurship, Human Behaviour.
+- 💬 Ask me about book suggestions regarding Investing, Entrepreneurship, and Human Behaviour.
 
-- ⚡ Fun fact :- Love to discuss great idea and like to discuss debate on social issues India is facing right now. 
+- ⚡ Fun fact :- Love to discuss great ideas and like to discuss &debate on social issues India is facing right now. 
 
 - ⚡ Know More: Mohak's Portfolio
 
@@ -36,7 +36,7 @@ Apart from coding, understanding human behavior, startups ecosystem, and consume
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohak-tripathi/" target="_blank"><img align="center"
+  <a href="https://www.linkedin.com/in/mohak-tripathi/" target="_blank"><img align="left"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Mohak Tripathi" height="30" width="40" /></a>
 
@@ -46,7 +46,7 @@ Apart from coding, understanding human behavior, startups ecosystem, and consume
       alt="Mohak Tripathi" height="30" width="40" /></a> -->
 
 
-  <a href="https://www.instagram.com/mohak_tripathi/" target="_blank"><img align="center"
+  <a href="https://www.instagram.com/mohak_tripathi/" target="_blank"><img align="left"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="Mohak Tripathi" height="30" width="40" /></a>
 
