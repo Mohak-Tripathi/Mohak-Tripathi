@@ -8,35 +8,55 @@
   </p>
 
 <br>
-<!-- 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p> -->
 
+<p align="right"> <h3>About Me :-</h3>
 
-- 🌱 I’m currently learning Web Development and other programming languages
+Lawyer by profession who is trying to make a mark in software development. Coming from a legal family background, I had a natural inclination towards a law which grew gradually as I got older. Being in law school, I also explored different other domains and technologies that flabbergasted me the most. 
+
+Having the potential of hockey-stick growth and out of my curiosity, I decided to pursue Full Stack Web development as my specialization. I am adept in the MERN stack and developed key projects in it. I am an efficacious team player and like to work in a collaborative and creative environment. 
+
+Apart from coding, understanding human behavior, startups ecosystem, and consumer psychology and investing are my area of interest. In my leisure time, I try to find contrarian truths about the world that can strengthen my second-order thinking. If this sparkles your interest, feel free to contact me by email.
 
 - 📫 How to reach me **mohaktripathi029@gmail.com**
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- 🌱 Proficient in Data Structures and Algorithms.
+
+- 👯 I’m looking to collaborate on some cool and awesome ideas.
+
+- 💬 Ask me about book suggestions regarding Investing, Entrepreneurship, Human Behaviour.
+
+- ⚡ Fun fact :- Love to discuss great idea and like to discuss debate on social issues India is facing right now. 
+
+- ⚡ Know More: Mohak's Portfolio
 
 <br>
 
+
+
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohak-tripathi/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/mohak-tripathi/" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Mohak Tripathi" height="30" width="40" /></a>
+
+
   <!-- <a href="https://fb.com/adam pithen wala" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="Mohak Tripathi" height="30" width="40" /></a> -->
-  <a href="https://instagram.com/_._.adam._" target="blank"><img align="center"
+
+
+  <a href="https://www.instagram.com/mohak_tripathi/" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/adampithewan" target="blank"><img align="center"
+      alt="Mohak Tripathi" height="30" width="40" /></a>
+
+  <a href="https://www.hackerrank.com/mohaktripathi029" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="adampithewan" height="30" width="40" /></a>
- <a href="https://twitter.com/adam_pithenwala" target="blank"><img align="center"
+      alt="Mohak Tripathi" height="30" width="40" /></a>
+
+ <!-- <a href="https://twitter.com/adam_pithenwala" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="30" width="40" /></a>
+      alt="adampithewan" height="30" width="40" /></a> -->
 </p>
 
 <br>
