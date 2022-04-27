@@ -25,9 +25,9 @@ Apart from coding, understanding human behavior, startups ecosystem, and consume
 
 - 💬 Ask me about book suggestions regarding Investing, Entrepreneurship, and Human Behaviour.
 
-- ⚡ Fun fact :- Love to discuss great ideas and like to discuss &debate on social issues India is facing right now. 
+- 👯 Fun fact :- Love to discuss great ideas and like to discuss & debate on social issues India is facing right now. 
 
-- ⚡ Know More: Mohak's Portfolio
+- ⚡ Know More: <a href="" target = "_blank"> Mohak's Portfolio </a>
 
 <br>
 
@@ -100,4 +100,15 @@ Apart from coding, understanding human behavior, startups ecosystem, and consume
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohak-Tripathi&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Mohak-Tripathi" /></p>
       
 
+
+
+<br/>
+<br/>
+
+
+<h3>Contribution Graph :-</h3>
+<a href="https://github.com/Mohak-Tripathi/github-readme-activity-graph"><img alt="Mohak Tripathi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mohak-Tripathi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
 
