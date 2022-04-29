@@ -27,7 +27,7 @@ Apart from coding, understanding human behavior, startups ecosystem, and consume
 
 - 👯 Fun fact :- Love to discuss great ideas and like to discuss & debate on social issues India is facing right now. 
 
-- ⚡ Know More: <a href="" target = "_blank"> Mohak's Portfolio </a>
+- ⚡ Know More: <a href="https://mohaktripathi.vercel.app/" target = "_blank"> Mohak's Portfolio </a>
 
 <br>
 
