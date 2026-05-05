@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohak Tripathi</h1>
+<!-- <h1 align="center">Hi 👋, I'm Mohak Tripathi</h1>
 <h3 align="center">Full Stack MERN Developer🌟.</h3>
 
 <br>
@@ -111,4 +111,55 @@ Apart from coding, understanding human behavior, startups ecosystem, and consume
 
 <br/>
 <br/>
+ -->
 
+
+# Mohak Tripathi
+
+**Full-Stack SDE · Backend-Heavy · Node.js · Rails · PostgreSQL · TypeScript**
+
+3.5 years building production backend systems across fintech SaaS, 
+IoT platforms, and AI-powered automation. Strong in system design, 
+multi-tenant architecture, and agentic AI integration.
+
+---
+
+### What I build
+
+**At work (V-Align)** — Multi-tenant SaaS with RBAC for 5+ enterprise 
+clients. Built agentic AI proposal automation (LangChain + LangGraph + RAG) 
+that increased proposal throughput from 4 to 7 per week. Airflow ETL 
+processing 20K+ records/day. Razorpay recurring billing. AWS deployment.
+
+**TerrySage** *(side project, in development)* — Real estate CRM for 
+agents. Multi-tenant agent network, lead management, property management, 
+AI property descriptions, voice-to-text via Whisper. Full backend solo.
+
+**UPLIFT** — Gym management SaaS. Multi-tenant with RBAC. 99.5% uptime. 
+500+ members across branches. Sole backend engineer.
+
+---
+
+### Tech Stack
+
+**Backend:** Node.js · Express · Ruby on Rails · TypeScript · GraphQL · REST  
+**Database:** PostgreSQL · MongoDB · InfluxDB  
+**AI/ML:** LangChain · LangGraph · LangSmith · CrewAI · OpenAI API · RAG · FastAPI · Python  
+**DevOps:** Docker · AWS EC2 · API Gateway · Airflow · CI/CD  
+**IoT:** MQTT · Raspberry Pi · ESP32 · Telegraf  
+**Frontend:** React · Redux · Next.js · React Native
+
+---
+
+### Currently
+
+- 📚 Deep-diving system design (HLD + LLD) and advanced DSA
+- 🤖 Completed 3-month Agentic AI bootcamp — 12+ production agent workflows built
+- 🔨 Building TerrySage — real estate CRM with AI-powered features
+
+---
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohak_Tripathi-blue?logo=linkedin)](https://www.linkedin.com/in/mohak-tripathi/)
+📧 mohaktripathi029@gmail.com
