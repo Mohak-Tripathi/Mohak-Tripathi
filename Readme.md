@@ -14,7 +14,7 @@ Backend-heavy full-stack engineer · 3.5 years in production
 
 ---
 
-**Strong in:** multi-tenant systems · API design · agentic AI integration · data pipelines · production AWS deployments
+**Strong in:** Multi-tenant systems · API design · Agentic AI integration · Data pipelines · Production AWS deployments
 
 ---
 
