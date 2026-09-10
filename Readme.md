@@ -1,6 +1,6 @@
 ## Mohak Tripathi
 
-Backend-heavy full-stack engineer · 3.5 years in production
+Backend-heavy full-stack engineer · 4 years in production
 
 **Stack:** Node.js · TypeScript · PostgreSQL · GraphQL · Rails · Python · AWS
 
